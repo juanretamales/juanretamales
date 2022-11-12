@@ -16,5 +16,3 @@ From creating web-based IT solutions, creating efficient ETL to innovative solut
 [![Azure](https://img.shields.io/badge/Experienced-999999?style=for-the-badge&logo=microsoftazure&logoColor=cyan&labelColor=101010&label=Azure)]()
 
 All of my history are available in [juanretamales.cl](https://juanretamales.cl/)
-
-https://img.shields.io/badge/Experienced-999999?style=for-the-badge&logo=amazonaws&logoColor=orange&labelColor=101010&label=AWS
