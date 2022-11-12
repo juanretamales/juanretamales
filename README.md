@@ -12,8 +12,9 @@ From creating web-based IT solutions, creating efficient ETL to innovative solut
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
-[![AWS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/Experienced-999999?style=for-the-badge&logo=amazonaws&logoColor=orange&labelColor=101010&label=AWS)]()
 [![Azure](https://img.shields.io/badge/Experienced-999999?style=for-the-badge&logo=microsoftazure&logoColor=cyan&labelColor=101010&label=Azure)]()
 
 All of my history are available in [juanretamales.cl](https://juanretamales.cl/)
 
+https://img.shields.io/badge/Experienced-999999?style=for-the-badge&logo=amazonaws&logoColor=orange&labelColor=101010&label=AWS
