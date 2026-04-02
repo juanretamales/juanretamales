@@ -1,22 +1,78 @@
-# Hi, I’m Juan Retamales
+# Hi, I'm Juan Retamales 👋
 
-I have been a professional software engineer for years.
+**Data Engineer | Data Governance | AI Applied**
 
-Machine Learning Operations Engineer with experience in development, deployment and optimization of Artificial Intelligence solutions. Specialized in AWS, Azure and DigitalOcean, with skills in containers, ETL and API creation. Team leader, trainer and agile project manager. Demonstrated success in automation, ML model development and innovative solutions in image analysis. Expert in cloud infrastructure management and agile methodologies, focused on efficiency and performance.
+I’m a Data Engineer with experience in **data integration, automation, and governance** in both public and private sectors.  
+My work focuses on building reliable data pipelines, ensuring data quality, and enabling data-driven decision-making.
 
-## Technologies:
-[![Python](https://img.shields.io/badge/Developer-999999?style=for-the-badge&logo=python&logoColor=green&labelColor=101010&label=Python)]() <br>
-[![React](https://img.shields.io/badge/Junior%20Dev-999999?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010&label=React)]() <br>
-[![JavaScript](https://img.shields.io/badge/Junior%20Dev-999999?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010&label=Javascript)]() <br>
-[![Node.JS](https://img.shields.io/badge/Junior%20Dev-999999?style=for-the-badge&logo=node.js&logoColor=green&labelColor=101010&label=Node.js)]() <br>
+Currently working at the **Servicio Electoral de Chile (SERVEL)**, contributing to data governance, interoperability, and institutional data platforms.
 
-[![Postgresql](https://img.shields.io/badge/Developer-999999?style=for-the-badge&logo=postgresql&logoColor=cyan&labelColor=101010&label=Postgresql)]() <br>
-[![MSSQL](https://img.shields.io/badge/Developer-999999?style=for-the-badge&logo=microsoftsqlserver&logoColor=red&labelColor=101010&label=MSSQL)]() <br>
-[![MySQL](https://img.shields.io/badge/Developer-999999?style=for-the-badge&logo=mysql&logoColor=lightblue&labelColor=101010&label=MySQL)]() <br>
-[![SQLite](https://img.shields.io/badge/Developer-999999?style=for-the-badge&logo=mysql&logoColor=lightblue&labelColor=101010&label=SQLite)]() <br>
+---
 
-[![Docker](https://img.shields.io/badge/Developer-999999?style=for-the-badge&logo=docker&logoColor=cyan&labelColor=101010&label=Docker)]() <br>
-[![AWS](https://img.shields.io/badge/Developer-999999?style=for-the-badge&logo=amazonaws&logoColor=orange&labelColor=101010&label=AWS)]() <br>
-[![Azure](https://img.shields.io/badge/Developer-999999?style=for-the-badge&logo=microsoftazure&logoColor=cyan&labelColor=101010&label=Azure)]() <br>
+## 🧠 About Me
 
-All of my history are available in [juanretamales.cl](https://juanretamales.cl/)
+- 🔧 Strong background in **Python, SQL, ETL pipelines and automation**
+- ☁️ Experience with **Azure, AWS, Docker and CI/CD**
+- 📊 Focus on **Power BI and data visualization for decision-making**
+- 🏛️ Working with **data governance frameworks (MGDE)** and public sector interoperability (**PISEE, CKAN**)
+- 🤖 Experience applying AI to **document processing, computer vision and data extraction**
+- ⚙️ Advocate of **efficient, maintainable and traceable data systems**
+
+---
+
+## 🚀 Key Projects
+
+- **State Interoperability Integration (PISEE – 2025)**  
+  Implementation of secure data exchange between government systems under Chile’s Digital Transformation Law (Law 21.180).
+
+- **Data Catalog Integration (CKAN – 2025)**  
+  Development of institutional data catalog enabling metadata management, traceability and governance.
+
+- **Automated Survey Pipeline (2024)**  
+  Real-time data visualization using Microsoft Forms + Power BI.
+
+- **AI Document Processing Pipeline (2023–2024)**  
+  Extraction and structuring of financial and administrative data from PDFs using AI models.
+
+---
+
+## 🛠️ Tech Stack
+
+### Data & Backend
+- Python (Pandas, ETL, automation)
+- SQL (PostgreSQL, SQL Server, MySQL)
+- APIs & Data Pipelines
+
+### Cloud & DevOps
+- Azure DevOps (CI/CD)
+- AWS (Serverless, Lambda, ECS)
+- Docker
+
+### Data & Monitoring
+- Power BI
+- Grafana, Prometheus ecosystem
+- Prefect (workflow orchestration)
+
+### AI Applied
+- Computer Vision
+- Document processing (OCR, LLMs, SLMs)
+
+---
+
+## 🌱 Currently
+
+- Improving my **English communication skills**
+- Deepening knowledge in **data governance and scalable architectures**
+- Building tools around **monitoring, data catalogs and observability**
+
+---
+
+## 📫 Contact
+
+- 📧 jua.retamales@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juanretamales)  
+- 🌐 [juanretamales.cl](https://juanretamales.cl)
+
+---
+
+> “Focused on turning data into reliable systems that support real decisions.”
